@@ -1,2 +1,4 @@
 # metabomir
-metabomir Shiny application
+Source code for the metabomir Shiny application.
+
+[https://sethupathy-lab.shinyapps.io/metabomir/]
